@@ -2099,9 +2099,9 @@ decamelize@^1.0.0, decamelize@^1.1.1, decamelize@^1.1.2:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.0"
@@ -4012,11 +4012,6 @@ loose-envify@^1.0.0:
   integrity sha1-ce5R+nvkyuwaY4OffmgtgTLTDK8=
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
-
-lottie-web@^5.1.9:
-  version "5.5.9"
-  resolved "https://registry.npm.taobao.org/lottie-web/download/lottie-web-5.5.9.tgz#f8775e8c36dfada428f9acea826ab674750419a8"
-  integrity sha1-+HdejDbfraQo+azqgmq2dHUEGag=
 
 loud-rejection@^1.0.0:
   version "1.6.0"
@@ -7047,13 +7042,6 @@ vue-loader@^13.3.0:
     vue-hot-reload-api "^2.2.0"
     vue-style-loader "^3.0.0"
     vue-template-es2015-compiler "^1.6.0"
-
-vue-lottie@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/vue-lottie/download/vue-lottie-0.2.1.tgz#f9f62c34a276e6834255406118fb05b51f765e4b"
-  integrity sha1-+fYsNKJ25oNCVUBhGPsFtR92Xks=
-  dependencies:
-    lottie-web "^5.1.9"
 
 vue-router@^3.0.1:
   version "3.1.3"
