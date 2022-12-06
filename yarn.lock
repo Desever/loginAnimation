@@ -4013,11 +4013,6 @@ loose-envify@^1.0.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
-lottie-web@^5.1.9:
-  version "5.5.9"
-  resolved "https://registry.npm.taobao.org/lottie-web/download/lottie-web-5.5.9.tgz#f8775e8c36dfada428f9acea826ab674750419a8"
-  integrity sha1-+HdejDbfraQo+azqgmq2dHUEGag=
-
 loud-rejection@^1.0.0:
   version "1.6.0"
   resolved "https://registry.npm.taobao.org/loud-rejection/download/loud-rejection-1.6.0.tgz#5b46f80147edee578870f086d04821cf998e551f"
@@ -5659,9 +5654,9 @@ qs@6.7.0:
   integrity sha1-QdwaAV49WB8WIXdr4xr7KHapsbw=
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.npm.taobao.org/qs/download/qs-6.5.2.tgz?cache=0&sync_timestamp=1566009952956&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fqs%2Fdownload%2Fqs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha1-yzroBuh0BERYTvFUzo7pjUA/PjY=
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -7047,13 +7042,6 @@ vue-loader@^13.3.0:
     vue-hot-reload-api "^2.2.0"
     vue-style-loader "^3.0.0"
     vue-template-es2015-compiler "^1.6.0"
-
-vue-lottie@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/vue-lottie/download/vue-lottie-0.2.1.tgz#f9f62c34a276e6834255406118fb05b51f765e4b"
-  integrity sha1-+fYsNKJ25oNCVUBhGPsFtR92Xks=
-  dependencies:
-    lottie-web "^5.1.9"
 
 vue-router@^3.0.1:
   version "3.1.3"
